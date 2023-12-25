@@ -1,25 +1,15 @@
-# Couseraaaa
-wanted to make a site to see if its working 
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>Inheritance in CSS</title>
+<title>Styling Text</title>
 <style>
-header.navigation p {
-	color: blue;
+.style{
+	
 }
-p.blurb {
-	color:red;
-}
-/*p {
-	color: green !important;
-}*/
 </style>
 </head>
 <body>
-<header class="navigation">
-  <p class="blurb">Loream ipsum dolor sit amet, consectuer adiping> me is me, no one is me, ok fine, go and find your system.</p>
-  </header
-  </body>
-  
+<p> You can get commonly used font combinations from <a href="http://www.w3schools.com/cssref/css_websafe_fonts.asp">http://www.w3schools.com/cssref/css_websafe_fonts.asp</a>. Lorem ipsum dolor sit amet, consectetur adipisicing eliy. quistante, ok fine go wahat ypu gotta do, im no none oto tell you.</p>
+</body>
+</html>
