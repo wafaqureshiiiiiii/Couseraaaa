@@ -1,2 +1,25 @@
 # Couseraaaa
 wanted to make a site to see if its working 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Inheritance in CSS</title>
+<style>
+header.navigation p {
+	color: blue;
+}
+p.blurb {
+	color:red;
+}
+/*p {
+	color: green !important;
+}*/
+</style>
+</head>
+<body>
+<header class="navigation">
+  <p class="blurb">Loream ipsum dolor sit amet, consectuer adiping> me is me, no one is me, ok fine, go and find your system.</p>
+  </header
+  </body>
+  
