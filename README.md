@@ -10,6 +10,8 @@
 	color: #0000ff;
 	font-style: italic;
 	font-weight: bold;
+	font-size: 24px;
+
 }
 </style>
 </head>
