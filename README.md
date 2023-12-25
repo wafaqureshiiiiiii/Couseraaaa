@@ -8,6 +8,7 @@
 .style{
 	font-family: Arial, Helvetica, sans-serif;
 	color: #0000ff;
+	font-style: italic;
 }
 </style>
 </head>
