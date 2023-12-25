@@ -9,6 +9,7 @@
 	font-family: Arial, Helvetica, sans-serif;
 	color: #0000ff;
 	font-style: italic;
+	font-weight: bold;
 }
 </style>
 </head>
