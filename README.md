@@ -11,6 +11,8 @@
 	font-style: italic;
 	font-weight: bold;
 	font-size: 24px;
+        text-transform: capitilize;
+
 
 }
 </style>
