@@ -21,7 +21,7 @@ body {
 	width: 300px;
 	height: 50px;
 	margin-top: 50px;  
-	overflow: visible;
+	overflow: hidden;
 }
 #content {
 	background-color: #90EE90; //green
