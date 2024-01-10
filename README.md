@@ -12,6 +12,7 @@ body {
 }
 #box {
 	background-color: blue;
+	padding: 10px 10px 10px 10px;
 }
 #content {
 	background-color: #90EE90; //green
