@@ -15,14 +15,16 @@ p {
 }
 #p1 {
 	background-color: #A52A2A;
-	float:right;
+	float:left;
 }
 #p2 {
 	background-color: #DEB887;
+	float: right;
 }
 #p3 {
 	background-color: #5F9EA0;
-	clear: left;
+	clear: right;
+
 }
 #p4 {
 	background-color: #FF7F50;
