@@ -19,6 +19,7 @@ body {
 	border: 3px solid black;
 	margin: 40px;
 	width: 300px;
+	margin-top: 50px;  
 }
 #content {
 	background-color: #90EE90; //green
