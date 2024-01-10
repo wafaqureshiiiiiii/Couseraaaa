@@ -4,12 +4,14 @@
 <meta charset="utf-8"
 <title>The Box Model</title>
 <style>
+* {
+	box-sizing: border-box;
+}
 
 body {
     margin: 0;
     padding: 0;
 	background-color: gray;
-	box-sizing: border-box;
 }
 #box {
 	background-color: blue;
