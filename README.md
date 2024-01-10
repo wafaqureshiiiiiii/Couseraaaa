@@ -6,6 +6,8 @@
 <style>
 
 body {
+    margin: 0;
+    padding: 0;
 	background-color: gray;
 }
 #box {
@@ -31,3 +33,4 @@ h1 {
 
 </body>
 </html>
+
