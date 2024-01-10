@@ -12,7 +12,7 @@
 </head>
 <body>
 <div>Regular text</div>
-<div>style="font-size: 2em;"  2em text
+<div>style="font-size:2em;">2em text
   <div>4em text
     <div>2em again!</div>
   </div>
