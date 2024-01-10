@@ -8,6 +8,9 @@
 	width: 500px;
 	height: 500px;
 	background-color: blue;
+	background-image: url("picture");
+	background-repeat: no-repeat;
+	background-position: top right;
 }
 
 </style>
