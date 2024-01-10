@@ -20,6 +20,7 @@ p {
 #p2 {
 	background-color: #DEB887;
 	float: right;
+	height: 300;
 }
 #p3 {
 	background-color: #5F9EA0;
