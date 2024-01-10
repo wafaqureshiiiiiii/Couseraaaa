@@ -35,7 +35,7 @@ h1 {
 
 <h1>Box Model</h1>
 <div id= "box">
-  <div id= "content"> Lorem ipsum dolor sit amet, consectuer adipisicing elit.
+  <div id= "content"> Lorem ipsum dolor sit amet, consectuer adipisicing elitfff ok ok fine i love myself im wafa qureshi. and i know that im fine ill be fine soon in sha allah.
   </div>
 </div>
 
