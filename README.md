@@ -1,21 +1,33 @@
-
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Setting Font Size</title>
+<meta charset="utf-8"
+<title>The Box Model</title>
 <style>
+
 body {
-	font-size: 120%;
+	background-color: gray;
 }
+#box {
+	background-color: blue;
+}
+#content {
+	background-color: #90EE90; //green
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
 </style>
 </head>
 <body>
-<div>Regular text</div>
-<div>style="font-size: 2em;">2em text
-  <div>4em text
-    <div>2em again!</div>
+
+<h1>Box Model</h1>
+<div id= "box">
+  <div id= "content"> Lorem ipsum dolor sit amet, consectuer adipisicing elit.
   </div>
 </div>
+
 </body>
 </html>
