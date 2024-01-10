@@ -14,7 +14,7 @@
 <div>Regular text</div>
 <div> 2em text
   <div>4em text
-    <div>@em again!</div>
+    <div>2em again!</div>
   </div>
 </div>
 </body>
