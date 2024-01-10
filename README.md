@@ -12,8 +12,6 @@ p {
 	width: 50px;
 	height: 50px;
 	border: 1px solid black;
-	float: left;
-	margin-right: 10px
 }
 #p1 {
 	background-color: #A52A2A;
