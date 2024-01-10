@@ -15,10 +15,11 @@ body {
 }
 #box {
 	background-color: blue;
-	padding: 10px 10px 10px 10px;
+	padding: 10px;
 	border: 3px solid black;
 	margin: 40px;
 	width: 300px;
+	height: 50px;
 	margin-top: 50px;  
 }
 #content {
