@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <title>Setting Font Size</title>
 <style>
-.style{
+body{
 	font-size: 120%;
 }
 </style>
