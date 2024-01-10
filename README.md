@@ -13,6 +13,7 @@ body {
 #box {
 	background-color: blue;
 	padding: 10px 10px 10px 10px;
+	border: 3px solid black;
 }
 #content {
 	background-color: #90EE90; //green
@@ -34,4 +35,3 @@ h1 {
 
 </body>
 </html>
-
