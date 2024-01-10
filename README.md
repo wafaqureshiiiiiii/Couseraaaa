@@ -15,6 +15,7 @@ body {
 	padding: 10px 10px 10px 10px;
 	border: 3px solid black;
 	margin: 40px;
+        width: 300px;
 }
 #content {
 	background-color: #90EE90; //green
