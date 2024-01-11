@@ -1,59 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Floating Elements</title>
+<meta charset="utf-8"
+<title>Media Queries</title>
 <style>
-	*{
-		box-sizing: border-box;
-		margin: 0;
-		padding: 0;
-	}
-h1 {
-	margin-bottom: 15px; 
-}
 
-div#container {
-	background-color: #00FFFF;
+h1 {
+	margin-bottom: 15px;
 }
 p {
-	width: 50px;
-	height: 50px;
 	border: 1px solid black;
+	margin-bottom: 15px;
 }
 #p1 {
 	background-color: #A52A2A;
-	top: 65px;
-	left: 65px;
+	width: 300px;
+	height: 50px;
 }
 #p2 {
-	background-color: #DEB887;
-}
-#p3 {
 	background-color: #5F9EA0;
 	position: absolute;
-	top: 0;
-	left: 0;
-	
-}
-#p4 {
-	background-color: #FF7F50;
-}
-section {
-	clear: left;
+	width: 300px;
+	height: 300px;	
 }
 </style>
 </head>
 <body>
-<h1>Floating Elements</h1>
-
-<div>
-  <p id="p1"></p>
-  <p id="p2"></p>
-  <p id="p3"></p>
-  <p id="p4"></p>
-  <section>this is regular continuing after okkkk bye thnkou yours faithfully abc </section>
-
-</div>
-</body>
-</html>
