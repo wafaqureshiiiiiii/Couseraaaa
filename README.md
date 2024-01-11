@@ -31,6 +31,9 @@ p {
 }
 #p3 {
 	background-color: #5F9EA0;
+	position: absolute;
+	top: 0;
+	left: 0;
 	
 }
 #p4 {
