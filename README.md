@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Floating Elements</title>
+<title>Two Coloumn Design</title>
 <style>
 
 div {
@@ -11,24 +11,13 @@ div {
 p {
 	width: 50px;
 	height: 50px;
-	border: 1px solid black;
+	float: left;
 }
 #p1 {
 	background-color: #A52A2A;
-	float:left;
 }
 #p2 {
 	background-color: #DEB887;
-	float: right;
-	height: 300;
-}
-#p3 {
-	background-color: #5F9EA0;
-	clear: right;
-
-}
-#p4 {
-	background-color: #FF7F50;
 }
 section {
 	clear: left;
@@ -36,13 +25,11 @@ section {
 </style>
 </head>
 <body>
-<h1>Floating Elements</h1>
+<h1>Two Coloumn Design</h1>
 
 <div>
-  <p id="p1"></p>
-  <p id="p2"></p>
-  <p id="p3"></p>
-  <p id="p4"></p>
+  <p id="p1">mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</p>
+  <p id="p2">vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv</p>
   <section>this is regular continuing after okkkk bye thnkou yours faithfully abc </section>
 
 </div>
