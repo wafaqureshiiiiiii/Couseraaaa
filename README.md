@@ -23,17 +23,15 @@ p {
 }
 #p1 {
 	background-color: #A52A2A;
-	float:left;
+	top: 65px;
+	left: 65px;
 }
 #p2 {
 	background-color: #DEB887;
-	float: right;
-	height: 300;
 }
 #p3 {
 	background-color: #5F9EA0;
-	clear: right;
-
+	
 }
 #p4 {
 	background-color: #FF7F50;
