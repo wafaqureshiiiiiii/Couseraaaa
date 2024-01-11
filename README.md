@@ -23,6 +23,24 @@ p {
 	width: 300px;
 	height: 300px;	
 }
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+ #p1 {
+ width: 80%;
+ }
+ #p2 {
+ width: 150%;
+ }
+}
 </style>
 </head>
+<body>
+<h1> Media Queries</h1>
+<div>
+  <p id="p1"></p>
+  <p id="p2"></p>
+  <section>this is regular continuing after okkkk bye thnkou yours faithfully abc </section>
 
+</div>
+</body>
+</html>
