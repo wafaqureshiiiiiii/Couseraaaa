@@ -24,12 +24,13 @@ p {
 	height: 150px;	
 }
 /********** Large devices only **********/
-@media (min-width: 1200px) {
+@media (min-width: 992px) and 9(max-width: 1199px) {
  #p1 {
- width: 80%;
+ width: 50%;
  }
  #p2 {
- width: 150%;
+ width: 100%;
+ height: 100px;
  }
 }
 </style>
