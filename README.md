@@ -20,8 +20,8 @@ p {
 #p2 {
 	background-color: #5F9EA0;
 	position: absolute;
-	width: 300px;
-	height: 300px;	
+	width: 150px;
+	height: 150px;	
 }
 /********** Large devices only **********/
 @media (min-width: 1200px) {
